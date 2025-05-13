@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=welcome+to+masterkusok+shit+storage" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=welcome+to+masterkusok+shit+storage%E2%99%A1+" alt="Typing SVG" /></a>
 
-Actual:
-- Golang IOT-bakend dev
-- MAI FIIT survivor
-- Khinkali enjoyer
+<h2>Actual:</h2>
+<h3>Golang IOT-bakend dev</h3>
+<h3>MAI FIIT survivor</h3>
+<h3>Khinkali enjoyer</h3>
 
-
+<img src="https://github.com/masterkusok/masterkusok/blob/main/07307326ffa10bbe1eaefb02d753e834(1).jpg">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=masterkusok)](https://git.io/streak-stats)
 
