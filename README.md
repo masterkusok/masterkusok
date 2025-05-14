@@ -15,3 +15,5 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/masterkusok?ext=contest)
 
 </div>
+
+![Snake animation](https://raw.githubusercontent.com/yashelter/yashelter/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
