@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=welcome+to+masterkusok+shit+storage%E2%99%A1+" alt="Typing SVG" /></a>
 
 <h2>Actual:</h2>
-<h3>Golang IOT-bakend dev</h3>
+<h3>Golang bakend dev</h3>
 <h3>MAI FIIT survivor</h3>
 <h3>Khinkali enjoyer</h3>
 
